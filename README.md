@@ -1,4 +1,5 @@
 # UI Styling Project  
+# Hosted Link -https://shariqueally.github.io/Dom-manipulation-example/
 
 This project demonstrates basic DOM manipulation using JavaScript and CSS properties to style a `div` element. The project emphasizes consistency in user interface design and clear code implementation.  
 
